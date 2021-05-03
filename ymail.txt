@@ -1,0 +1,193 @@
+
+                                <div>
+	<table class="table table-striped table-bordered table-hover" cellspacing="0" rules="all" border="1" id="ctl00_MainContent_grdCurrentYearOwnerDetails" style="width:100%;border-collapse:collapse;">
+		<tbody><tr>
+			<th scope="col">Owner</th><th scope="col">Extent</th><th scope="col">Khatah Number</th>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblowner">ಪೀಪಲ್ಸ್ ಎಜುಕೇಷನ್ ಸೊಸೈಟಿ ಹನುಮಂತನಗರ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblext">4.15.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblkhatha">1         </span>
+                                            </td>
+		</tr>
+	</tbody></table>
+</div>
+                            
+                                <div>
+	<table class="table table-striped table-bordered table-hover" cellspacing="0" rules="all" border="1" id="ctl00_MainContent_grdCurrentYearOwnerDetails" style="width:100%;border-collapse:collapse;">
+		<tbody><tr>
+			<th scope="col">Owner</th><th scope="col">Extent</th><th scope="col">Khatah Number</th>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblowner">ವಿ.ಸಿ.ರಾಜೇಶ್ವರಿ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblext">0.14.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblkhatha">          </span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl03_lblowner">ಪೀಪಲ್ಸ್ ಎಜುಕೇಷನ್  ಸೊಸೈಟಿ ರವರ ಪರವಾಗಿ ಪ್ರೊII ಡಿ.ಜವಹಾರ್</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl03_lblext">2.10.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl03_lblkhatha">146</span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl04_lblowner">ವಿಜಯ್ ಡಿಸೋಜ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl04_lblext">0.7.11.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl04_lblkhatha">46        </span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl05_lblowner">ದಿಲೀಪ್ ಡಿಸೋಜ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl05_lblext">0.7.11.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl05_lblkhatha">46        </span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl06_lblowner">ಅರುಣ್ ಡಿಸೋಜ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl06_lblext">0.7.11.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl06_lblkhatha">46        </span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl07_lblowner">ಸಂಜಯ್ ಡಿಸೋಜ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl07_lblext">0.7.11.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl07_lblkhatha">46        </span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl08_lblowner">ಮೆ ನಂದಿ ಎಕನಾಮಿಕ್ ಕಾರಿಡಾರ್ ಎಂಟರ್‌ಪ್ರೈಸಸ್ ಲಿಮಿಟೆಡ್</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl08_lblext">0.2.8.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl08_lblkhatha">1</span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl09_lblowner">ಪೀಪಲ್ಸ್ ಎಜುಕೇಷನ್ ಸೊಸೈಟಿ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl09_lblext">0.26.12.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl09_lblkhatha">30</span>
+                                            </td>
+		</tr>
+	</tbody></table>
+</div>
+                            
+                                <div>
+	<table class="table table-striped table-bordered table-hover" cellspacing="0" rules="all" border="1" id="ctl00_MainContent_grdCurrentYearOwnerDetails" style="width:100%;border-collapse:collapse;">
+		<tbody><tr>
+			<th scope="col">Owner</th><th scope="col">Extent</th><th scope="col">Khatah Number</th>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblowner">ಸಂಜಯ್ ಡಿಸೋಜ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblext">2.0.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblkhatha">147       </span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl03_lblowner">ಸಂಜಯ್ ಡಿಸೋಜ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl03_lblext">2.0.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl03_lblkhatha"></span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl04_lblowner">ಪೀಪಲ್ಸ್ ಎಜುಕೇಷನ್ ಸೊಸೈಟಿ ರವರ ಪರವಾಗಿ ಪ್ರೊII ಡಿ.ಜವಹಾರ್</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl04_lblext">4.20.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl04_lblkhatha">146</span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl05_lblowner">ಸಂಜಯ್ ಡಿಸೋಜ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl05_lblext">3.28.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl05_lblkhatha">46        </span>
+                                            </td>
+		</tr>
+	</tbody></table>
+</div>
+                            
+                                <div>
+	<table class="table table-striped table-bordered table-hover" cellspacing="0" rules="all" border="1" id="ctl00_MainContent_grdCurrentYearOwnerDetails" style="width:100%;border-collapse:collapse;">
+		<tbody><tr>
+			<th scope="col">Owner</th><th scope="col">Extent</th><th scope="col">Khatah Number</th>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblowner">S. ರಾಜಶೇಖರಯ್ಯ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblext">3.0.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl02_lblkhatha">                    </span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl03_lblowner">B. ರುದ್ರಮ್ಮ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl03_lblext">0.20.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl03_lblkhatha">                    </span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl04_lblowner">ರೇಣುಕ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl04_lblext">0.0.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl04_lblkhatha"></span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl05_lblowner">ಪಿ.ಎಸ್.ನಾಗರತ್ನಮ್ಮ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl05_lblext">0.1.1.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl05_lblkhatha">                    </span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl06_lblowner">ಉಮಾಭಾನುಮೂರ್ತಿ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl06_lblext">0.1.1.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl06_lblkhatha">                    </span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl07_lblowner">ಶ್ರೀಧರಮುರ್ತಿ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl07_lblext">0.0.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl07_lblkhatha">                    </span>
+                                            </td>
+		</tr><tr>
+			<td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl08_lblowner">ಪೀಪಲ್ಸ್ ಎಜುಕೇಷನ್ ಸೊಸೈಟಿ</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl08_lblext">4.14.0.00</span>
+                                            </td><td>
+                                                <span id="ctl00_MainContent_grdCurrentYearOwnerDetails_ctl08_lblkhatha">2         </span>
+                                            </td>
+		</tr>
+	</tbody></table>
+</div>
+                            
